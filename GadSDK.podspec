@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'GadSDK'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'GAD Offerwall iOS SDK'
   s.description      = <<-DESC
     GPA KOREA 의 GAD 오퍼월을 iOS 앱에 통합하기 위한 SDK.
